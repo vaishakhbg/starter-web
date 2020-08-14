@@ -1,4 +1,5 @@
 access.log
+log_dir/
 
 ./404.html
 404.html
