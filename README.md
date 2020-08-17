@@ -18,7 +18,7 @@ what is happening
 
 ## COpyright
 
-Jai copright
+Jai copright all right sresreved
 
 ## How to do
 This is how you do. Okay?
