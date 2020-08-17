@@ -21,5 +21,5 @@ what is happening
 Jai copright all right sresreved
 
 ## How to do
-This is how you do. Okay?
+This is why you do. Okay?
 This is a new line . jjjj
