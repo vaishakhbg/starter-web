@@ -4,6 +4,8 @@ Vaishak This repository is for showing how Git and GitHub work
 
 ## Purpose
 
+sayonara. SU[p man?
+
 
 Vaishak This repository is for showing how Git and GitHub work
 
