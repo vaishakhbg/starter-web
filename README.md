@@ -17,3 +17,5 @@ what is happening
 ## COpyright
 
 Jai copright
+
+## How to do
